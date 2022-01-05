@@ -20,7 +20,7 @@ import com.fasterxml.jackson.annotation.JsonFormat;
 import com.nelioalves.course.entities.enums.OrderStatus;
 
 @Entity
-@Table(name = "tb_order")
+@Table(name = "tb_orders")
 public class Order implements Serializable {
 
 	
